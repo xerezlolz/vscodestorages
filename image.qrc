@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/myimages">
+        <file>C:/Users/Administrator/Desktop/DreamWorks.png</file>
+    </qresource>
+</RCC>
