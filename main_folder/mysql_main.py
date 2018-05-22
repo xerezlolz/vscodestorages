@@ -4,6 +4,8 @@
 import pymysql
 import xlwt
 import xlrd
+import pandas
+import numpy
 
 
 '''

@@ -785,17 +785,17 @@ color: rgb(85, 170, 255);</string>
   <widget class="QLabel" name="label_18">
    <property name="geometry">
     <rect>
-     <x>10</x>
-     <y>30</y>
-     <width>231</width>
-     <height>381</height>
+     <x>0</x>
+     <y>-30</y>
+     <width>191</width>
+     <height>511</height>
     </rect>
    </property>
    <property name="text">
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>C:/Users/Administrator/Desktop/DreamWorks_meitu_1.png</pixmap>
+    <pixmap>../DreamWorks.png</pixmap>
    </property>
   </widget>
   <zorder>groupBox_2</zorder>
